@@ -2,7 +2,7 @@
 
 In this project we will will build a secure infrastructure inside AWS VPC (Virtual Private Cloud) network. 
 
-![image](https://github.com/lucm9/Vpc_subnets/assets/96879757/7b6feb0d-1ee0-44e9-9577-9b7c4d0e5c73)
+![image](https://github.com/lucm9/Vpc_subnets/assets/96879757/d5f739c1-26cb-469d-81ef-461c324f7c57)
 
 Set Up a Virtual Private Network (VPC) Always make reference to the architectural diagram and ensure that your configuration is aligned with it.
 
